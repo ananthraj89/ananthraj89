@@ -1,36 +1,172 @@
-<h1 align="center">Hi 👋, I'm Ananth Ainavolu</h1>
-<h3 align="center">A passionate Full Stack Developer from Canada, wanting to learn and explore new Software technologies everyday.</h3>
+# 👋 Hi, I'm Ananth Ainavolu!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthraj89&label=Profile%20views&color=0e75b6&style=flat" alt="ananthraj89" /> </p>
+### Full Stack Developer | AI/ML Explorer | Software Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthraj89" alt="ananthraj89" /></a> </p>
+**Turning ideas into code, and code into experiences.**
 
-- 🔭 I’m currently working on [Gaming](https://github.com/ananthraj89/pygame_practice2)
+🇨🇦 Based in Canada
 
-- 🌱 I’m currently learning **AI/ML**
+\<p align="center">
+&#x20; \<a href="[https://github.com/ananthraj89](https://github.com/ananthraj89)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-ananthraj89-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-ananthraj89-181717?style=for-the-badge\&logo=github)" alt="GitHub"/>
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/ananth-rajj/](https://www.linkedin.com/in/ananth-rajj/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" alt="LinkedIn"/>
+&#x20; \</a>
+&#x20; \<a href="mailto\:ananthgitam\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)" alt="Email"/>
+&#x20; \</a>
+\</p>
 
-- 👯 I’m looking to collaborate on [Pygame](https://github.com/ananthraj89/Pygame_Tim)
+\<p align="center">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=ananthraj89&label=Profile%20Views&color=6366f1&style=flat-square](https://komarev.com/ghpvc/?username=ananthraj89\&label=Profile%20Views\&color=6366f1\&style=flat-square)" alt="Profile Views"/>
+&#x20; \<img src="[https://img.shields.io/badge/Location-Canada-red?style=flat-square&logo=googlemaps](https://img.shields.io/badge/Location-Canada-red?style=flat-square\&logo=googlemaps)" alt="Location"/>
+&#x20; \<img src="[https://img.shields.io/badge/Focus-AI%20%7C%20Software%20Development-6366f1?style=flat-square](https://img.shields.io/badge/Focus-AI%20%7C%20Software%20Development-6366f1?style=flat-square)" alt="Focus"/>
+&#x20; \<img src="[https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square](https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square)" alt="Open to Collaboration"/>
+\</p>
 
-- 🤝 I’m looking for help with [Gaming Simulator](https://github.com/ananthraj89/Pygame_Tim)
+---
 
-- 💬 Ask me about **Full Stack Devlopment**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **anantharaj483@gmail.com, ananthgitam@gmail.com**
+Hello! I'm Ananth, a software developer passionate about building useful applications, exploring emerging technologies, and continuously improving my engineering skills.
 
-- ⚡ Fun fact **I am a Software Developer, wanting to learn and try to build stuff.**
+My interests span Full Stack Development, Python programming, Artificial Intelligence, Machine Learning, and interactive software development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ananth-rajj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananth-rajj/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/raj.stupendous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raj.stupendous" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ainavolu_ananthrajsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ainavolu_ananthrajsharma/" height="30" width="40" /></a>
-</p>
+- 🔭 Working on software development and Python gaming projects.
+- 🌱 Exploring Artificial Intelligence and Machine Learning.
+- 🎮 Developing interactive applications and simulations using Python and Pygame.
+- 💡 Interested in modern software architecture and intelligent applications.
+- 🤝 Open to open-source contributions and collaboration.
+- ⚡ Believe in continuous learning, experimentation, and innovation.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthraj89&show_icons=true&locale=en&layout=compact" alt="ananthraj89" /></p>
+## 📊 GitHub Overview
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananthraj89&show_icons=true&locale=en" alt="ananthraj89" /></p>
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fananthraj89&query=%24.public_repos&label=Public%20Repositories&logo=github&color=6366f1&style=for-the-badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fananthraj89\&query=%24.public_repos\&label=Public%20Repositories\&logo=github\&color=6366f1\&style=for-the-badge)" alt="Public Repository Count"/>
+&#x20; \<a href="[https://github.com/ananthraj89?tab=repositories](https://github.com/ananthraj89?tab=repositories)">
+&#x20;   \<img src="[https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge\&logo=github)" alt="View Repositories"/>
+&#x20; \</a>
+\</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananthraj89&" alt="ananthraj89" /></p>
+### 📈 GitHub Statistics
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/ananthraj89](https://github.com/ananthraj89)">
+&#x20;   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=ananthraj89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ananthraj89\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&include_all_commits=true)" alt="GitHub Statistics"/>
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/ananthraj89](https://github.com/ananthraj89)">
+&#x20;   \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ananthraj89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=ananthraj89\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&langs_count=8)" alt="Most Used Programming Languages"/>
+&#x20; \</a>
+\</p>
+
+### 🔥 Contribution Streak
+
+\<p align="center">
+&#x20; \<img width="75%" src="[https://streak-stats.demolab.com?user=ananthraj89&theme=tokyonight&hide_border=true&background=0D1117](https://streak-stats.demolab.com?user=ananthraj89\&theme=tokyonight\&hide_border=true\&background=0D1117)" alt="GitHub Contribution Streak"/>
+\</p>
+
+---
+
+## 📅 Contribution Graph
+
+\<p align="center">
+&#x20; \<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=ananthraj89&bg_color=0D1117&color=58A6FF&line=6366F1&point=FFFFFF&area=true&hide_border=true&custom_title=Ananth](https://github-readme-activity-graph.vercel.app/graph?username=ananthraj89\&bg_color=0D1117\&color=58A6FF\&line=6366F1\&point=FFFFFF\&area=true\&hide_border=true\&custom_title=Ananth)'s%20Contribution%20Activity" alt="GitHub Contribution Activity Graph"/>
+\</p>
+
+### 🗓️ Contribution Calendar
+
+\<p align="center">
+&#x20; \<img width="100%" src="[https://ghchart.rshah.org/6366f1/ananthraj89](https://ghchart.rshah.org/6366f1/ananthraj89)" alt="GitHub Contribution Calendar"/>
+\</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 pygame_practice2
+
+
+
+Python game development and interactive bouncing-ball demonstrations.
+
+**Technologies:** Python · Pygame · Game Logic · Interactive Simulations
+
+---
+
+### 🔍 Explore More Projects
+
+Discover my other repositories, experiments, and development work.
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/ananthraj89?tab=repositories](https://github.com/ananthraj89?tab=repositories)">
+&#x20;   \<img src="[https://img.shields.io/badge/EXPLORE_ALL_6_PUBLIC_REPOSITORIES-6366f1?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE_ALL_6_PUBLIC_REPOSITORIES-6366f1?style=for-the-badge\&logo=github\&logoColor=white)" alt="Explore Repositories"/>
+&#x20; \</a>
+\</p>
+
+---
+
+## 🧰 Technology Stack
+
+### 💻 Programming Languages
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,html,css,bash,matlab](https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,html,css,bash,matlab)" alt="Programming Languages"/>
+\</p>
+
+### 🎨 Frontend Development
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,angular,nextjs,vue,bootstrap,figma](https://skillicons.dev/icons?i=react,angular,nextjs,vue,bootstrap,figma)" alt="Frontend Technologies"/>
+\</p>
+
+### ⚙️ Backend & Databases
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,django,flask,spring,mongodb,mysql,postgres,sqlite,firebase](https://skillicons.dev/icons?i=nodejs,django,flask,spring,mongodb,mysql,postgres,sqlite,firebase)" alt="Backend and Databases"/>
+\</p>
+
+### 🤖 Artificial Intelligence & Data Science
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)" alt="AI and Data Science"/>
+\</p>
+
+### ☁️ Cloud, DevOps & Developer Tools
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,postman,gcp,heroku](https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,postman,gcp,heroku)" alt="Cloud and DevOps"/>
+\</p>
+
+### 🎮 Design, Testing & Other Tools
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=arduino,blender,photoshop,unity,selenium,cypress,jest](https://skillicons.dev/icons?i=arduino,blender,photoshop,unity,selenium,cypress,jest)" alt="Design and Development Tools"/>
+\</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Artificial Intelligence and Machine Learning.
+- 🧠 Intelligent applications and automation.
+- 🎮 Python game development and interactive simulations.
+- 🌐 Modern full-stack application development.
+- ☁️ Cloud computing and scalable software systems.
+- 📊 Data Science and intelligent optimization algorithms.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, exchanging ideas, learning new technologies, and collaborating on exciting projects.
+
+\<p align="center">   \<a href="[https://github.com/ananthraj89](https://github.com/ananthraj89)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)" alt="GitHub"/>   \</a>   \<a href="[https://www.linkedin.com/in/ananth-rajj/](https://www.linkedin.com/in/ananth-rajj/)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)" alt="LinkedIn"/>   \</a>   \<a href="[https://www.instagram.com/ainavolu_ananthrajsharma/](https://www.instagram.com/ainavolu_ananthrajsharma/)">     \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)" alt="Instagram"/>   \</a>   \<a href="mailto\:ananthgitam\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)" alt="Email"/>   \</a> \</p>
+
+---
+
+\<h2 align="center">💻 BUILD. LEARN. INNOVATE. REPEAT.\</h2>
+
+\<p align="center">   Thanks for visiting my GitHub profile!   \<br/>   ⭐ Feel free to explore my repositories and follow my journey. \</p>
