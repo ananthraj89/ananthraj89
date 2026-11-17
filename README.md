@@ -1,148 +1,119 @@
-<!-- ANANTH AINAVOLU | GitHub Profile README GitHub username: ananthraj89 -->
-
 <div align="center">
 
-👋 Hey there, I'm Ananth Ainavolu!
-💻 Full Stack Developer | 🚀 Tech Enthusiast | 🤖 AI/ML Explorer
+ANANTH AINAVOLU
+Full Stack Developer · AI/ML Explorer · Software Engineer
 
-Building things, breaking things, learning things, and making ideas come to life.
+Turning ideas into code, and code into experiences.
 
-📍 Canada
+🇨🇦 Based in Canada
 
-![GitHub](https://img.shields.io/badge/GitHub-ananthraj89-181717?style=for-the-badge&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin) ![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ananthraj89-181717?style=flat-square&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin) ![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
 !Profile Views
 
 </div>
 
-🚀 About Me
+👨‍💻 About Me
 
-I'm a passionate Full Stack Developer from Canada who loves exploring new technologies, solving problems, and building creative software solutions.
+Hello! I'm Ananth, a developer passionate about building software, exploring emerging technologies, and continuously improving my engineering skills.
 
-🔭 Currently working on Gaming & Software Development
-🌱 Currently exploring Artificial Intelligence & Machine Learning
-🎮 Interested in Game Development, Python & Pygame
-💻 Experienced with Full Stack Development
-🤝 Always open to collaborating on exciting projects
-⚡ Fun fact: I love experimenting with new technologies and turning ideas into reality!
-📊 GitHub Analytics
+I enjoy working across the full stack, experimenting with Python, developing games, and exploring the possibilities of AI and machine learning.
 
-<div align="center">
-
-📈 My GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ananthraj89&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthraj89&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-
-🔥 Contribution Streak
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ananthraj89&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-⭐ GitHub Achievements
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ananthraj89&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-
-</div>
-
-📅 Contribution Activity
+🔭 Building and experimenting with software and gaming projects.
+🌱 Currently learning Artificial Intelligence & Machine Learning.
+🎮 Exploring Python, Pygame, and interactive simulations.
+💡 Interested in Full Stack Development and emerging technologies.
+🤝 Open to collaboration, open-source contributions, and exciting ideas.
+⚡ My philosophy: Never stop learning, building, and experimenting.
+📊 GitHub Dashboard
 
 <div align="center">
 
-My Coding Journey
+GitHub Statistics
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ananthraj89&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+<a href="https://github.com/ananthraj89"> <img width="49%" src="./profile/stats.svg" alt="Ananth's GitHub Stats"/> </a> <a href="https://github.com/ananthraj89"> <img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages"/> </a>
 
-💚 Contribution Calendar
+Contribution Streak
 
-<img width="100%" src="https://ghchart.rshah.org/0e75b6/ananthraj89" alt="GitHub Contribution Calendar" />
+<img width="75%" src="https://streak-stats.demolab.com?user=ananthraj89&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution Streak"/>
+
+GitHub Achievements
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ananthraj89&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 
 </div>
 
-🏆 Featured Projects
-
-A few projects from my development journey that I'm working on and exploring.
-
-<table> <tr> <td width="50%">
-
-🎮 Gaming Projects
-
-pygame_practice2
-
-Exploring game development, Python programming, and interactive gaming experiences.
-
-Python
-Game Development
-Pygame
-![View Project](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github)
-
-</td> <td width="50%">
-
-🕹️ Pygame Simulator
-
-Pygame_Tim
-
-A gaming-focused project where I'm exploring simulation concepts and developing interactive experiences.
-
-Python
-Pygame
-Game Logic
-![View Project](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github)
-
-</td> </tr> </table>
+📈 Contribution Activity
 
 <div align="center">
 
-![Explore All Repositories](https://img.shields.io/badge/Explore_All_My_Repositories-2ea44f?style=for-the-badge&logo=github)
+My Coding Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ananthraj89&bg_color=0d1117&color=58a6ff&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+
+Contribution Calendar
+
+<img width="100%" src="https://ghchart.rshah.org/6366f1/ananthraj89" alt="Contribution Calendar"/>
 
 </div>
 
-🛠️ Languages & Technologies
+🚀 Featured Projects
 
-👨‍💻 Programming Languages
+<div align="center">
+
+
+Project	Description	Technologies
+🎮 pygame_practice2	Exploring Python game development and interactive experiences.	Python, Pygame
+🕹️ Pygame_Tim	Gaming and simulation development project.	Python, Game Logic
+![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-6366f1?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+🧰 Technology Stack
+
+Languages
 
 <p> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,html,css,bash,matlab" /> </p>
 
-🌐 Frontend Development
+Frontend
 
 <p> <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,bootstrap,figma" /> </p>
 
-⚙️ Backend Development & Databases
+Backend & Databases
 
 <p> <img src="https://skillicons.dev/icons?i=nodejs,django,flask,spring,mongodb,mysql,postgres,sqlite,firebase" /> </p>
 
-🤖 AI / ML & Data Science
+Artificial Intelligence & Data Science
 
 <p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> </p>
 
-☁️ DevOps & Development Tools
+Cloud, DevOps & Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,postman,gcp,heroku" /> </p>
 
-🎨 Other Tools & Technologies
+Design & Other Tools
 
 <p> <img src="https://skillicons.dev/icons?i=arduino,blender,photoshop,unity,selenium,cypress,jest" /> </p>
 
-📈 My GitHub Activity
+🌱 Currently Exploring
+
+🤖 Artificial Intelligence & Machine Learning
+🧠 Intelligent applications and automation
+🎮 Game development and simulations
+🌐 Modern full-stack architectures
+☁️ Cloud technologies and scalable applications
+🤝 Connect With Me
 
 <div align="center">
 
-!GitHub Contribution Activity !Open Source
+I'm always interested in connecting with developers, exchanging ideas, and collaborating on interesting projects.
 
-Every commit is another step forward. Every project is another opportunity to learn.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram) ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)
 
-</div>
+💻 BUILD. LEARN. INNOVATE. REPEAT.
 
-🤝 Let's Connect!
+Thanks for stopping by! Let's create something amazing.
 
-I'm always excited to connect with developers, collaborate on interesting projects, and explore new opportunities.
-
-<p align="center"> <a href="https://github.com/ananthraj89"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/ananth-rajj/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://www.instagram.com/ainavolu_ananthrajsharma/"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:anantharaj483@gmail.com"> <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-
-<div align="center">
-
-💡 "Code. Create. Innovate. Repeat."
-
-Thanks for visiting my profile! Happy coding! 🚀
+⭐ If you like what I build, consider following me on GitHub!
 
 </div>
