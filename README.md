@@ -29,12 +29,7 @@ My interests include Full Stack Development, Python programming, Artificial Inte
 
 ## 📊 GitHub Overview
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fananthraj89&query=%24.public_repos&label=Public%20Repositories&logo=github&color=6366f1&style=for-the-badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fananthraj89\&query=%24.public_repos\&label=Public%20Repositories\&logo=github\&color=6366f1\&style=for-the-badge)" alt="Public Repository Count">
-&#x20; \<a href="[https://github.com/ananthraj89?tab=repositories](https://github.com/ananthraj89?tab=repositories)">
-&#x20;   \<img src="[https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge\&logo=github)" alt="View All Repositories">
-&#x20; \</a>
-\</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fananthraj89&query=%24.public_repos&label=Public%20Repositories&logo=github&color=6366f1&style=for-the-badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fananthraj89\&query=%24.public_repos\&label=Public%20Repositories\&logo=github\&color=6366f1\&style=for-the-badge)" alt="Public Repository Count">   \<a href="[https://github.com/ananthraj89?tab=repositories](https://github.com/ananthraj89?tab=repositories)">     \<img src="[https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge\&logo=github)" alt="View All Repositories">   \</a> \</p>
 
 ### 📈 GitHub Statistics
 
@@ -49,9 +44,7 @@ My interests include Full Stack Development, Python programming, Artificial Inte
 
 ### 🔥 Contribution Streak
 
-\<p align="center">
-&#x20; \<img width="75%" src="[https://streak-stats.demolab.com?user=ananthraj89&theme=tokyonight&hide_border=true&background=0D1117](https://streak-stats.demolab.com?user=ananthraj89\&theme=tokyonight\&hide_border=true\&background=0D1117)" alt="GitHub Contribution Streak">
-\</p>
+\<p align="center">   \<img width="75%" src="[https://streak-stats.demolab.com?user=ananthraj89&theme=tokyonight&hide_border=true&background=0D1117](https://streak-stats.demolab.com?user=ananthraj89\&theme=tokyonight\&hide_border=true\&background=0D1117)" alt="GitHub Contribution Streak"> \</p>
 
 ---
 
@@ -91,33 +84,23 @@ A Python game-development practice project featuring bouncing-ball demonstration
 
 ### 🎨 Frontend Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,angular,nextjs,vue,bootstrap,figma](https://skillicons.dev/icons?i=react,angular,nextjs,vue,bootstrap,figma)" alt="Frontend Technologies">
-\</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=react,angular,nextjs,vue,bootstrap,figma](https://skillicons.dev/icons?i=react,angular,nextjs,vue,bootstrap,figma)" alt="Frontend Technologies"> \</p>
 
 ### ⚙️ Backend & Databases
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,django,flask,spring,mongodb,mysql,postgres,sqlite,firebase](https://skillicons.dev/icons?i=nodejs,django,flask,spring,mongodb,mysql,postgres,sqlite,firebase)" alt="Backend and Databases">
-\</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,django,flask,spring,mongodb,mysql,postgres,sqlite,firebase](https://skillicons.dev/icons?i=nodejs,django,flask,spring,mongodb,mysql,postgres,sqlite,firebase)" alt="Backend and Databases"> \</p>
 
 ### 🤖 Artificial Intelligence & Data Science
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)" alt="AI and Data Science">
-\</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)" alt="AI and Data Science"> \</p>
 
 ### ☁️ Cloud, DevOps & Developer Tools
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,postman,gcp,heroku](https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,postman,gcp,heroku)" alt="Cloud and DevOps">
-\</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,postman,gcp,heroku](https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,postman,gcp,heroku)" alt="Cloud and DevOps"> \</p>
 
 ### 🎮 Design, Testing & Other Tools
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=arduino,blender,photoshop,unity,selenium,cypress,jest](https://skillicons.dev/icons?i=arduino,blender,photoshop,unity,selenium,cypress,jest)" alt="Design and Development Tools">
-\</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=arduino,blender,photoshop,unity,selenium,cypress,jest](https://skillicons.dev/icons?i=arduino,blender,photoshop,unity,selenium,cypress,jest)" alt="Design and Development Tools"> \</p>
 
 ---
 
